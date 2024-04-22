@@ -1,0 +1,13 @@
+Ulangan	Perlakuan			
+100	PA			
+100	PB			
+90	PC			
+0	PD			
+100	PA			
+100	PB			
+80	PC			
+0	PD			
+100	PA			
+100	PB			
+90	PC			
+0	PD			
